@@ -1,0 +1,26 @@
+nav{
+	padding-bottom:0 ;
+	margin-bottom:0 ;
+	background-color: #2ABFD4;
+}
+
+.btnn{
+	width: 2.2em;
+	height: 2.2em;
+	padding: 0;
+}	
+
+
+#contenedor{
+	padding-top: 0;
+	margin-top: 0;
+}
+
+#oreo{width: 100%;}
+
+footer{position:relative; bottom:0; width:100%;text-transform: uppercase; background-color: #224687;text-align: center; color: #FFFFFF;padding: 1.5em 0 1.5em 0;}
+header{background-color: #2ABFD4; color: #FFFFFF;text-align: center; padding: 3em 0 3em 0;text-transform: uppercase;}
+
+#lec{width: 100%;}
+
+
